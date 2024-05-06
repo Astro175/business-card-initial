@@ -1,0 +1,27 @@
+.card {
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    color: #2b2839;
+    background-color: #ddebf8;
+    border-bottom: #d8cefe 5px solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    margin: 20px;
+    text-align: center;
+}
+
+.profile-img {
+    width: 150px;
+}
+
+
+    /*
+    Challenge:
+    Set the font to Verdana.
+    */
